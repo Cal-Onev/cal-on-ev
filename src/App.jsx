@@ -19,6 +19,15 @@ const navigation1 = [
   { label: "Contact", id: "contact" },
 ];
 
+const navigation2 = [
+  { label: "Home", id: "home" },
+  { label: "Vehicles", id: "vehicles" },
+  { label: "Technology", id: "technology" },
+  { label: "Manufacturing", id: "manufacturing" },
+  { label: "About", id: "about" },
+  { label: "Contact", id: "contact" },
+];
+
 const vehicles = [
   {
     category: "URBAN / SCOOTER",
