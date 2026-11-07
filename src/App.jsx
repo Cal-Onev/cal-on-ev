@@ -19,6 +19,7 @@ const navigation1 = [
   { label: "Contact", id: "contact" },
 ];
 
+
 const vehicles = [
   {
     category: "URBAN / SCOOTER",
